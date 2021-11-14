@@ -1,0 +1,14 @@
+{
+  "rate": {
+    "zip": "90404",
+    "state": "CA",
+    "state_rate": "0.0625",
+    "county": "LOS ANGELES",
+    "county_rate": "0.01",
+    "city": "SANTA MONICA",
+    "city_rate": "0.0",
+    "combined_district_rate": "0.025",
+    "combined_rate": "0.0975",
+    "freight_taxable": false
+  }
+}
